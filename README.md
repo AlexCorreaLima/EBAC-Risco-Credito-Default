@@ -55,6 +55,7 @@ As proporções são:
 *(Você pode copiar os valores da última execução do código para preencher esta seção.)*
 
 ## 📁 Estrutura do Repositório
+
 ├── application_record.csv
 ├── pagamentos_largo.csv
 ├── Mod5Ex_aulas_04a05.ipynb  # (Opcional: Se você estiver enviando o notebook)
