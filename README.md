@@ -56,10 +56,8 @@ As proporções são:
 
 ## 📁 Estrutura do Repositório
 
-.
 ├── application_record.csv
-├── pagamentos_largo.csv
-├── Mod5Ex_aulas_04a05.ipynb  # (Opcional: Se você estiver enviando o notebook)
-├── script_default_creation.py # (Ou o seu script Python com o código das tarefas)
-└── README.md
-
+  ├── pagamentos_largo.csv
+    ├── Mod5Ex_aulas_04a05.ipynb # (Opcional: Se você estiver enviando o notebook)
+    ├── script_default_creation.py # (Ou o seu script Python com o código das tarefas)
+      └── README.md
