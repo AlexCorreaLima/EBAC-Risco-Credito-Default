@@ -1,4 +1,4 @@
-# ebac-risco-credito-default
+# EBAC-Risco-Credito-Default
 Mod5Ex_aulas_04a05
 
 # Classificação de Risco de Crédito: Montagem da Variável Resposta (EBAC)
