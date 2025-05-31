@@ -40,17 +40,6 @@ O exercício foi dividido em 5 tarefas principais para construir a variável `de
 * `Pandas` (para manipulação e análise de dados)
 * `Jupyter Notebook` (ambiente de desenvolvimento - *opcional, mas comum para este tipo de exercício*)
 
-## 📈 Resultados da Variável `Default`
-
-Após a execução das tarefas, a contagem da variável `default` resultou em:
-
-* `True` (Maus Pagadores): **[INSERIR VALOR AQUI, ex: 10742]**
-* `False` (Bons Pagadores): **[INSERIR VALOR AQUI, ex: 5908]**
-
-As proporções são:
-
-* `True`: **[INSERIR VALOR AQUI, ex: 64.52]%**
-* `False`: **[INSERIR VALOR AQUI, ex: 35.48]%**
 
 *(Você pode copiar os valores da última execução do código para preencher esta seção.)*
 
