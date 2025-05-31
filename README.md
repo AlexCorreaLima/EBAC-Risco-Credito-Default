@@ -41,6 +41,6 @@ O exercício foi dividido em 5 tarefas principais para construir a variável `de
 * `Jupyter Notebook` (ambiente de desenvolvimento - *opcional, mas comum para este tipo de exercício*)
 
 
-*(Você pode copiar os valores da última execução do código para preencher esta seção.)*
+
 
 
